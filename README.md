@@ -1,5 +1,15 @@
 # Onubad — English↔Bangla translator for COSMIC
 
+> **অনুবাদ** — fast English↔Bangla translation from your desktop panel. Hotkey, clipboard, swap, history.
+
+![Platform](https://img.shields.io/badge/platform-COSMIC%20%7C%20GNOME-48b9c7)
+![Python](https://img.shields.io/badge/python-3-3776AB?logo=python&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-3-4A86CF?logo=gnome&logoColor=white)
+![Tray](https://img.shields.io/badge/tray-AppIndicator%20SNI-5e81ac)
+![Engine](https://img.shields.io/badge/engine-MyMemory%20%2B%20Google-f6a800)
+![Tests](https://img.shields.io/badge/tests-16%20passing-3fb950)
+![pip deps](https://img.shields.io/badge/pip%20deps-none-2ea043)
+
 A lightweight English↔Bangla translator that lives in the Pop!_OS **COSMIC**
 panel. Tray icon, popup window, global-hotkey clipboard translation, direction
 swap with auto-detect, and local history. Works on any desktop with an SNI
